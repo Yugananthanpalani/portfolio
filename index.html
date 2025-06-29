@@ -49,11 +49,15 @@
   <main class="main">
 
     <!-- Hero Section -->
-    <section id="hero" class="hero section light-background">
+    <section id="hero" class="hero section light-background" style="position: relative;">
 
-      <img src="assets/img/hero-bg.png" alt="">
+      <!-- Desktop background image -->
+      <img src="assets/img/hero-bg.png" alt="" class="d-none d-md-block">
 
-      <div class="container" data-aos="zoom-out">
+      <!-- Mobile background image -->
+      <img src="assets/img/hero-bg1.png" alt="" class="d-block d-md-none position-absolute w-100 h-100" style="object-fit: cover; top: 0; left: 0; z-index: 0;">
+
+      <div class="container" data-aos="zoom-out" style="position: relative; z-index: 1;">
         <div class="row justify-content-center">
           <div class="col-lg-9">
             <h2>Yugananthan Palani</h2>
@@ -61,7 +65,7 @@
             <div class="social-links">
               <a href="https://x.com/YugananthanP"><i class="bi bi-twitter-x"></i></a>
               <a href="https://www.facebook.com/Yugananthanpalani"><i class="bi bi-facebook"></i></a>
-                <a href="https://github.com/Yugananthanpalani/"><i class="bi bi-github"></i></a>
+              <a href="https://github.com/Yugananthanpalani/"><i class="bi bi-github"></i></a>
               <a href="https://www.linkedin.com/in/yugananthan/"><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
