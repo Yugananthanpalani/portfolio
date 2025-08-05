@@ -18,7 +18,7 @@ const Projects = () => {
       icon: BookOpen,
       tags: ['React', 'Firebase', 'Video Streaming', 'LMS'],
       gradient: 'from-blue-500 to-cyan-600',
-      live: 'https://webweave.vercel.app',
+      live: 'https://webweavelms.vercel.app',
       code: 'https://github.com/Yugananthanalani/LMS'
     },
     {
