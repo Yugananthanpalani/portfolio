@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yugananthan.tech/sitemap.xml
