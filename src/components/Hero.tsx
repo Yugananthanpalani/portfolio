@@ -83,7 +83,7 @@ export default function Hero() {
               <div className="absolute inset-0 glass rounded-full glow" />
               <div className="absolute inset-0 flex items-center justify-center">
                 <img
-                  src="src/yuga1.png"
+                  src="https://ik.imagekit.io/ul4fxruo1/yuga1.png?updatedAt=1760367969785"
                   alt="Yugananthan Palani"
                   className="w-32 h-32 sm:w-40 sm:h-40 rounded-full object-cover"
                 />
@@ -93,7 +93,7 @@ export default function Hero() {
             {/* Desktop: Image */}
             <div className="hidden lg:block relative w-full h-[32rem]">
               <img
-                src="src/yuga.png"
+                src="https://ik.imagekit.io/ul4fxruo1/yuga.png?updatedAt=1760367969457"
                 alt="Yugananthan Palani"
                 className="object-cover rounded-xl w-full h-full"
               />
