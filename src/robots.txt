@@ -1,0 +1,11 @@
+# Allow all search engines to crawl your website
+User-agent: *
+Allow: /
+
+# Disallow sensitive files or folders (optional)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://yugananthan.tech/sitemap.xml
