@@ -38,19 +38,19 @@ export default function Projects() {
     {
       title: 'Anuppalam',
       description: 'Android file-sharing app',
-      link: 'https://anuppalam.example.com',
+      link: 'https://anuppalam.com',
       image: 'https://ik.imagekit.io/ul4fxruo1/Anuppalam?updatedAt=1756017973212g',
     },
     {
       title: 'Vivasayi AI App',
       description: 'AI farming insights tool',
-      link: 'https://vivasayi-ai.example.com',
+      link: 'https://vivasayi.vercel.app',
       image: 'https://ik.imagekit.io/ul4fxruo1/viv?updatedAt=1756018188118',
     },
     {
       title: 'SmartExp',
       description: 'Expense tracker with analytics',
-      link: 'https://smartexp.example.com',
+      link: 'https://smartexp.vecel.app',
       image: 'https://ik.imagekit.io/ul4fxruo1/smart?updatedAt=1756018318940',
     },
     {
